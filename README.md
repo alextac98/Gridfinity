@@ -1,2 +1,2 @@
-# gridfinity
-My collection of Gridfinity models and other things
+# Gridfinity
+My collection of Gridfinity models and other Gridfinity related things
